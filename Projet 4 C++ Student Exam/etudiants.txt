@@ -1,0 +1,20 @@
+Dupont Jean DUPJ001 2000 Informatique Sciences
+12 15 14 16
+Durand Marie DURM002 2001 Mathematiques Sciences
+14 17 13 15
+Martin Pierre MART003 1999 Informatique Sciences
+15 16 18 14
+Lefevre Sophie LEFS004 2000 Biologie Sciences
+16 15 17 16
+Garcia Luis GACL005 1998 Informatique Sciences
+17 18 19 15
+Lopez Ana LOAN006 2002 Chimie Sciences
+18 16 14 17
+Chen Wei CHEN007 2001 Mathematiques Sciences
+19 20 18 17
+Nguyen Minh NGUM008 1999 Biologie Sciences
+20 19 17 18
+Smith John SMIJ009 2000 Informatique Sciences
+18 16 15 17
+Brown Sarah BROS010 1998 Chimie Sciences
+16 17 19 15
